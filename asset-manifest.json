@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Word-7-Lab/wordapp.git/static/css/main.ab8ffe3d.chunk.css",
-    "main.js": "/Word-7-Lab/wordapp.git/static/js/main.9b5548e8.chunk.js",
-    "main.js.map": "/Word-7-Lab/wordapp.git/static/js/main.9b5548e8.chunk.js.map",
+    "main.js": "/Word-7-Lab/wordapp.git/static/js/main.7a7e5e88.chunk.js",
+    "main.js.map": "/Word-7-Lab/wordapp.git/static/js/main.7a7e5e88.chunk.js.map",
     "runtime-main.js": "/Word-7-Lab/wordapp.git/static/js/runtime-main.5725dca0.js",
     "runtime-main.js.map": "/Word-7-Lab/wordapp.git/static/js/runtime-main.5725dca0.js.map",
-    "static/js/2.b3212917.chunk.js": "/Word-7-Lab/wordapp.git/static/js/2.b3212917.chunk.js",
-    "static/js/2.b3212917.chunk.js.map": "/Word-7-Lab/wordapp.git/static/js/2.b3212917.chunk.js.map",
+    "static/js/2.b0682464.chunk.js": "/Word-7-Lab/wordapp.git/static/js/2.b0682464.chunk.js",
+    "static/js/2.b0682464.chunk.js.map": "/Word-7-Lab/wordapp.git/static/js/2.b0682464.chunk.js.map",
     "index.html": "/Word-7-Lab/wordapp.git/index.html",
-    "precache-manifest.e7710dd94163af322e66d8049c45dece.js": "/Word-7-Lab/wordapp.git/precache-manifest.e7710dd94163af322e66d8049c45dece.js",
+    "precache-manifest.d0435ae49196d4a83a141c8dde5f9ed0.js": "/Word-7-Lab/wordapp.git/precache-manifest.d0435ae49196d4a83a141c8dde5f9ed0.js",
     "service-worker.js": "/Word-7-Lab/wordapp.git/service-worker.js",
     "static/css/main.ab8ffe3d.chunk.css.map": "/Word-7-Lab/wordapp.git/static/css/main.ab8ffe3d.chunk.css.map",
-    "static/js/2.b3212917.chunk.js.LICENSE.txt": "/Word-7-Lab/wordapp.git/static/js/2.b3212917.chunk.js.LICENSE.txt",
+    "static/js/2.b0682464.chunk.js.LICENSE.txt": "/Word-7-Lab/wordapp.git/static/js/2.b0682464.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Word-7-Lab/wordapp.git/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5725dca0.js",
-    "static/js/2.b3212917.chunk.js",
+    "static/js/2.b0682464.chunk.js",
     "static/css/main.ab8ffe3d.chunk.css",
-    "static/js/main.9b5548e8.chunk.js"
+    "static/js/main.7a7e5e88.chunk.js"
   ]
 }
