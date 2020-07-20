@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Word-7-Lab/wordapp.git/precache-manifest.608e8cfe11e9e2814ae02ebbf6db4048.js"
+  "/Word-7-Lab/wordapp.git/precache-manifest.e7710dd94163af322e66d8049c45dece.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da3b7cbfa06ac61b168d671d4fc5f68d",
+    "revision": "47e3d4326a95b1843ed737f3f9164e7f",
     "url": "/Word-7-Lab/wordapp.git/index.html"
   },
   {
-    "revision": "17f242e27ce2ec553acf",
-    "url": "/Word-7-Lab/wordapp.git/static/css/main.cb0c6c3c.chunk.css"
+    "revision": "446c5394cdcc72c86426",
+    "url": "/Word-7-Lab/wordapp.git/static/css/main.ab8ffe3d.chunk.css"
   },
   {
-    "revision": "fe20d6792ffb12419763",
-    "url": "/Word-7-Lab/wordapp.git/static/js/2.83e7432e.chunk.js"
+    "revision": "d2c31fd56feaa5196f06",
+    "url": "/Word-7-Lab/wordapp.git/static/js/2.b3212917.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Word-7-Lab/wordapp.git/static/js/2.83e7432e.chunk.js.LICENSE.txt"
+    "url": "/Word-7-Lab/wordapp.git/static/js/2.b3212917.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "17f242e27ce2ec553acf",
-    "url": "/Word-7-Lab/wordapp.git/static/js/main.e51bd044.chunk.js"
+    "revision": "446c5394cdcc72c86426",
+    "url": "/Word-7-Lab/wordapp.git/static/js/main.9b5548e8.chunk.js"
   },
   {
     "revision": "bbdac8e12f3492654a13",

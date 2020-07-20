@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Word-7-Lab/wordapp.git/static/css/main.cb0c6c3c.chunk.css",
-    "main.js": "/Word-7-Lab/wordapp.git/static/js/main.e51bd044.chunk.js",
-    "main.js.map": "/Word-7-Lab/wordapp.git/static/js/main.e51bd044.chunk.js.map",
+    "main.css": "/Word-7-Lab/wordapp.git/static/css/main.ab8ffe3d.chunk.css",
+    "main.js": "/Word-7-Lab/wordapp.git/static/js/main.9b5548e8.chunk.js",
+    "main.js.map": "/Word-7-Lab/wordapp.git/static/js/main.9b5548e8.chunk.js.map",
     "runtime-main.js": "/Word-7-Lab/wordapp.git/static/js/runtime-main.5725dca0.js",
     "runtime-main.js.map": "/Word-7-Lab/wordapp.git/static/js/runtime-main.5725dca0.js.map",
-    "static/js/2.83e7432e.chunk.js": "/Word-7-Lab/wordapp.git/static/js/2.83e7432e.chunk.js",
-    "static/js/2.83e7432e.chunk.js.map": "/Word-7-Lab/wordapp.git/static/js/2.83e7432e.chunk.js.map",
+    "static/js/2.b3212917.chunk.js": "/Word-7-Lab/wordapp.git/static/js/2.b3212917.chunk.js",
+    "static/js/2.b3212917.chunk.js.map": "/Word-7-Lab/wordapp.git/static/js/2.b3212917.chunk.js.map",
     "index.html": "/Word-7-Lab/wordapp.git/index.html",
-    "precache-manifest.608e8cfe11e9e2814ae02ebbf6db4048.js": "/Word-7-Lab/wordapp.git/precache-manifest.608e8cfe11e9e2814ae02ebbf6db4048.js",
+    "precache-manifest.e7710dd94163af322e66d8049c45dece.js": "/Word-7-Lab/wordapp.git/precache-manifest.e7710dd94163af322e66d8049c45dece.js",
     "service-worker.js": "/Word-7-Lab/wordapp.git/service-worker.js",
-    "static/css/main.cb0c6c3c.chunk.css.map": "/Word-7-Lab/wordapp.git/static/css/main.cb0c6c3c.chunk.css.map",
-    "static/js/2.83e7432e.chunk.js.LICENSE.txt": "/Word-7-Lab/wordapp.git/static/js/2.83e7432e.chunk.js.LICENSE.txt",
+    "static/css/main.ab8ffe3d.chunk.css.map": "/Word-7-Lab/wordapp.git/static/css/main.ab8ffe3d.chunk.css.map",
+    "static/js/2.b3212917.chunk.js.LICENSE.txt": "/Word-7-Lab/wordapp.git/static/js/2.b3212917.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Word-7-Lab/wordapp.git/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5725dca0.js",
-    "static/js/2.83e7432e.chunk.js",
-    "static/css/main.cb0c6c3c.chunk.css",
-    "static/js/main.e51bd044.chunk.js"
+    "static/js/2.b3212917.chunk.js",
+    "static/css/main.ab8ffe3d.chunk.css",
+    "static/js/main.9b5548e8.chunk.js"
   ]
 }
