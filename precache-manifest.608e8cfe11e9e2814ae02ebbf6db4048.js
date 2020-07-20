@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c6ae8c6d7c1b1b2b42f2752df6d54b1",
+    "revision": "da3b7cbfa06ac61b168d671d4fc5f68d",
     "url": "/Word-7-Lab/wordapp.git/index.html"
   },
   {
-    "revision": "64c69e2c1a2adbe94c1e",
-    "url": "/Word-7-Lab/wordapp.git/static/css/main.5f361e03.chunk.css"
+    "revision": "17f242e27ce2ec553acf",
+    "url": "/Word-7-Lab/wordapp.git/static/css/main.cb0c6c3c.chunk.css"
   },
   {
     "revision": "fe20d6792ffb12419763",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Word-7-Lab/wordapp.git/static/js/2.83e7432e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "64c69e2c1a2adbe94c1e",
+    "revision": "17f242e27ce2ec553acf",
     "url": "/Word-7-Lab/wordapp.git/static/js/main.e51bd044.chunk.js"
   },
   {
